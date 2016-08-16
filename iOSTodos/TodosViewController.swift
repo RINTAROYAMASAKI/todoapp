@@ -6,6 +6,8 @@
 //  Copyright (c) 2015 danimal141. All rights reserved.
 //
 
+//github_open_data
+
 import UIKit
 import CoreData
 import Foundation
